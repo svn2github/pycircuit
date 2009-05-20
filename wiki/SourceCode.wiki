@@ -1,4 +1,4 @@
-pycircuit use [http://git-scm.com/ GIT] as version control system. Currently the repo is hosted at [http://www.github.com github.com].
+pycircuit use [http://git-scm.com/ git] as version control system. Currently the repo is hosted at [http://www.github.com github.com].
 
 = Command-Line Access =
 
