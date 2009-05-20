@@ -1,8 +1,7 @@
-
 == First release ==
 
 * Documentation improvements. Especially
-  * More non-trivial examples
+* More non-trivial examples
 * MOS model 
 * Stability analysis, root-locus, 
 
