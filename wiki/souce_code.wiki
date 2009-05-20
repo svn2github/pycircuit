@@ -3,7 +3,7 @@
 == Developer access ==
 
 {{{
-> git clone git@github.com:henjo/pycircuit.git
+git clone git@github.com:henjo/pycircuit.git
 }}}
 
 Note, to clone the tree as a developer you need a github account and write permission to the tree.
@@ -11,7 +11,7 @@ Note, to clone the tree as a developer you need a github account and write permi
 == Anonymous access ==
 
 {{{
-> git clone git://github.com/henjo/pycircuit.git
+git clone git://github.com/henjo/pycircuit.git
 }}}
 
 = From the web =
