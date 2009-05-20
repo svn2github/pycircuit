@@ -1,0 +1,26 @@
+
+== First release ==
+
+* Documentation improvements. Especially
+  * More non-trivial examples
+* MOS model 
+* Stability analysis, root-locus, 
+
+== Later ==
+
+* New analyses
+  * Mixed frequency/time-domain analysis (QPSS)
+  * Harmonic-balance
+* Numerical reduction of symbolic expression
+* Determinant Decision Diagram (DDD) 
+* Symbolic distortion analysis
+* Support for Verilog-A(MS) like constructs like ddt, idt, cross
+* Transient: roll-back capability, discarding of time steps
+* Co-simulation with myHDL
+* Geometric programming optimization and constraints generation from circuit description.
+* Implicit expressions for i,q, etc. in hdl.py, solve equations, perhaps numerically
+   * maybe we can use the newton solver to solve the implicit equations by adding nodes
+* Switch expressions
+* EM-solver
+* Convolution based transient analysis of circuits defined in the frequency domain 
+* State-space based analyses
