@@ -1,10 +1,19 @@
 = Command-Line Access =
 
+== Developer access ==
+
+{{{
+> git clone git@github.com:henjo/pycircuit.git
+}}}
+
+Note, to clone the tree as a developer you need a github account and write permission to the tree.
+
+== Anonymous access ==
+
 {{{
 > git clone git://github.com/henjo/pycircuit.git
 }}}
 
 = From the web =
 
-The pycircuit repo is currently stored at [http://github.com GIT Hub] and can be reached 
-[http://github.com/henjo/pycircuit here].
+The pycircuit repo is currently stored at [http://www.github.com github.com] where the source tree can browsed from the web (http://github.com/henjo/pycircuit)
