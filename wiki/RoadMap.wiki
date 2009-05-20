@@ -6,10 +6,22 @@
 
 == First release ==
 
-  * Stability analysis, root-locus, 
+=== pycircuit.sim ===
+
+  * Stability analysis: root-locus
+
 
 == Later ==
 
+=== pycircuit.sim ===
+  * Spectre support
+
+=== pycircuit.post ===
+  * HDF5 storage of results
+  * waveform vector quantities (can be used to handle busses etc)
+  * digital signal waveforms
+
+=== pycircuit.circuit ===
   * New analyses
     * Mixed frequency/time-domain analysis (QPSS)
     * Harmonic-balance
