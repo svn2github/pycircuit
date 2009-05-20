@@ -1,8 +1,11 @@
+== Public announcement ==
+
+* Documentation improvements
+  * More non-trivial examples
+* MOS model 
+
 == First release ==
 
-* Documentation improvements. Especially
-* More non-trivial examples
-* MOS model 
 * Stability analysis, root-locus, 
 
 == Later ==
