@@ -1,0 +1,21 @@
+pycircuit use [http://git-scm.com/ GIT] as version control system. Currently the repo is hosted at [http://www.github.com github.com].
+
+= Command-Line Access =
+
+== Anonymous access ==
+
+{{{
+git clone git://github.com/henjo/pycircuit.git
+}}}
+
+== Developer access ==
+
+{{{
+git clone git@github.com:henjo/pycircuit.git
+}}}
+
+Note, to clone the tree as a developer you need a github account and write permission to the tree.
+
+= From the web =
+
+The pycircuit repo is currently stored at [http://www.github.com github.com] where the source tree can browsed from the web (http://github.com/henjo/pycircuit)
