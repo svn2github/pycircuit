@@ -18,4 +18,5 @@ Note, to clone the tree as a developer you need a github account and write permi
 
 = From the web =
 
-The pycircuit repo is currently stored at [http://www.github.com github.com] where the source tree can browsed from the web (http://github.com/henjo/pycircuit)
+The pycircuit repo is currently stored at [http://www.github.com github.com] where the source tree can browsed from the web (http://github.com/henjo/pycircuit). You can also
+download snapshot tarballs from there.
