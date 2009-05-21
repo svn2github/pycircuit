@@ -38,3 +38,9 @@
   * EM-solver
   * Convolution based transient analysis of circuits defined in the frequency domain 
   * State-space based analyses
+
+= Higher level tool ideas =
+  * Create a netlister for pycircuit.circuit for gschem in the GEDA project
+  * Waveform viewer, could use other projects for this like [http://code.google.com/python-siva python-siva] which will use Chaco and Enthought Traits for this
+  * A specification driven verification suite where you can develop unit tests your circuits
+  * A schematic editor written in Python
